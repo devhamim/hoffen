@@ -1,0 +1,536 @@
+@media (max-width: 575.98px) { 
+
+/* =================================
+        header part start
+==================================== */
+
+.header_text h3 {
+	font-size: 12px;
+	padding: 0 5px;
+}
+.header_icon li {
+	padding: 10px 5px;
+}
+
+/* =================================
+        header part end
+==================================== */
+
+/* =================================
+        nav part start
+==================================== */
+
+.nav_home {
+	top: 5%;
+}
+.navbar-toggler-icon {
+	color: #fff;
+}
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0 .25rem #fff;
+}
+.navbar-nav {
+	text-align: center;
+	background-color: #e5d122;
+}
+.navbar-collapse li a{
+    color: #fff !important;
+}
+
+/* =================================
+        nav part end
+==================================== */
+
+/* =================================
+        banner part start
+==================================== */
+
+.banner_img {
+	padding: 300px 0;
+}
+.banner_text h2 {
+	font-size: 22px;
+}
+.banner_text h1 {
+	font-size: 26px;
+}
+.banner_text p::after {
+	top: 10%;
+}
+.banner_text p::before {
+	top: 10%;
+}
+.banner_text p {
+	font-size: 11px;
+	padding-top: 50px;
+}
+#banner .slick-dots {
+	position: absolute;
+	right: 30%;
+    top: 90%;
+	z-index: 99;
+}
+#banner .slick-dots li{
+    display: inline-block;
+    padding: 0 5px;
+}
+
+/* =================================
+        banner part end
+==================================== */
+
+ }
+
+/* =================================
+        576 brack point
+==================================== */
+
+/* =================================
+        576-767 brack point
+==================================== */
+
+ @media (min-width: 576px) and (max-width:767.98px) { 
+
+
+/* =================================
+        header part start
+==================================== */
+
+.header_text h3 {
+	font-size: 16px;
+}
+.header_icon li a {
+	font-size: 16px;
+}
+
+/* =================================
+        header part end
+==================================== */
+
+/* =================================
+        nav part start
+==================================== */
+
+.nav_home {
+	top: 5%;
+}
+.navbar-toggler-icon {
+	color: #fff;
+}
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0 .25rem #fff;
+}
+.navbar-nav {
+	text-align: center;
+	background-color: #e5d122;
+}
+.navbar-collapse li a{
+    color: #fff !important;
+}
+
+/* =================================
+        nav part end
+==================================== */
+
+/* =================================
+        banner part start
+==================================== */
+
+.banner_img {
+	padding: 300px 0;
+}
+.banner_text h2 {
+	font-size: 26px;
+}
+.banner_text h1 {
+	font-size: 30px;
+}
+.banner_text p::after {
+	top: 10%;
+}
+.banner_text p::before {
+	top: 10%;
+}
+.banner_text p {
+	font-size: 13px;
+	padding-top: 50px;
+}
+#banner .slick-dots {
+	position: absolute;
+	right: 30%;
+    top: 90%;
+	z-index: 99;
+}
+#banner .slick-dots li{
+    display: inline-block;
+    padding: 0 5px;
+}
+
+/* =================================
+        banner part end
+==================================== */
+
+ }
+
+
+/* =================================
+         576-767 brack point
+==================================== */
+
+/* =================================
+         768-991 brack point
+==================================== */
+
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+/* =================================
+        nav part start
+==================================== */
+
+.nav_home {
+	top: 5%;
+}
+.navbar-toggler-icon {
+	color: #fff;
+}
+.navbar-toggler:focus {
+	text-decoration: none;
+	outline: 0;
+	box-shadow: 0 0 0 .25rem #fff;
+}
+.navbar-nav {
+	text-align: center;
+	background-color: #e5d122;
+}
+.navbar-collapse li a{
+    color: #fff !important;
+}
+
+/* =================================
+        nav part end
+==================================== */
+
+
+/* =================================
+        banner part start
+==================================== */
+
+.banner_img {
+	padding: 300px 0;
+}
+.banner_text h2 {
+	font-size: 28px;
+}
+.banner_text h1 {
+	font-size: 36px;
+}
+.banner_text p::after {
+	top: 10%;
+}
+.banner_text p::before {
+	top: 10%;
+}
+.banner_text p {
+	font-size: 14px;
+	padding-top: 50px;
+}
+.slick-dots {
+	right: 2%;
+}
+
+/* =================================
+        banner part end
+==================================== */
+
+}
+
+/* =================================
+         768-991 brack point
+==================================== */
+
+
+@media (min-width: 992px) and (max-width:1199.98px) { 
+
+/* =================================
+        banner part start
+==================================== */
+
+
+.slick-dots {
+	right: 3%;
+}
+
+/* =================================
+        banner part end
+==================================== */
+
+
+}
+@media (min-width: 1200px) and (max-width:1399.98px) { 
+
+	/* =================================
+			banner part start
+	==================================== */
+	
+	.slick-dots {
+		right: 3%;
+	}
+	
+	/* =================================
+			banner part end
+	==================================== */
+	
+	}
+
+
+	/* =================================
+			index.html part end
+	==================================== */
+
+
+	/* ==========================================
+	=============================================
+			about.html part start
+	==============================================
+	============================================== */
+
+
+	@media (max-width: 575.98px) { 
+
+
+/* =================================
+			nav part start
+	==================================== */
+
+.nav_bg i{
+	color: #fff !important;
+
+}
+
+/* =================================
+			nav part end
+	==================================== */
+
+	/* =================================
+			about part start
+	==================================== */
+
+
+.about_img img{
+	width: 100%;
+}
+.about_text {
+	padding-top: 30px;
+}
+.about_text p {
+	font-size: 12px;
+}
+	
+	/* =================================
+			about part end
+	==================================== */
+
+
+	 	/* =================================
+			footer part start
+	==================================== */
+
+
+	.footer_one p {
+		font-size: 12px;
+	}
+	.footer_two h3 {
+		font-size: 20px;
+	}
+	.footer_two li {
+		font-size: 12px;
+		color: #f1f1f1;
+		padding: 5px 0;
+	}
+	.footer_three h3 {
+		font-size: 20px;
+		padding-top: 15px;
+	}
+	.footer_three li {
+		font-size: 12px;
+		color: #f1f1f1;
+		padding: 5px 0;
+	}
+	.footer_img img{
+		width: 100%;
+	}
+
+		/* =================================
+			footer part end
+	==================================== */
+		
+ }
+
+ @media (min-width: 576px) and (max-width:767.98px) { 
+
+/* =================================
+			nav part start
+	==================================== */
+
+	.nav_bg i{
+		color: #fff !important;
+	
+	}
+	
+	/* =================================
+				nav part end
+		==================================== */
+
+	/* =================================
+			about part start
+	==================================== */
+
+
+	.about_img img{
+		width: 100%;
+	}
+	.about_text {
+		padding-top: 30px;
+	}
+	.about_text p {
+		font-size: 12px;
+	}
+		
+		/* =================================
+				about part end
+		==================================== */
+
+/* =================================
+			footer part start
+	==================================== */
+
+
+	.footer_one p {
+		font-size: 12px;
+	}
+	.footer_two h3 {
+		font-size: 20px;
+	}
+	.footer_two li {
+		font-size: 12px;
+		color: #f1f1f1;
+		padding: 5px 0;
+	}
+	.footer_three h3 {
+		font-size: 20px;
+		padding-top: 15px;
+	}
+	.footer_three li {
+		font-size: 12px;
+		color: #f1f1f1;
+		padding: 5px 0;
+	}
+	.footer_img img{
+		width: 100%;
+	}
+
+		/* =================================
+			footer part end
+	==================================== */	
+
+	
+	
+	 }
+
+
+	 @media (min-width: 768px) and (max-width: 991.98px) { 
+
+/* =================================
+			nav part start
+	==================================== */
+
+	.nav_bg i{
+		color: #fff !important;
+	
+	}
+	
+	/* =================================
+				nav part end
+		==================================== */
+	
+	/* =================================
+			about part start
+	==================================== */
+
+
+	.about_img img{
+		width: 100%;
+	}
+	.about_text {
+		padding-top: 30px;
+	}
+		
+		/* =================================
+				about part end
+		==================================== */
+	
+	 }
+
+		
+
+
+
+	/* =================================
+			about.html part end
+	==================================== */
+
+
+
+
+
+
+		/* =================================
+			team.html part start
+	==================================== */
+
+	@media (max-width: 575.98px) {
+		.team_inner {
+			padding: 10px 0;
+		}
+		.team_inner h2 {
+			font-size: 20px;
+			color: #e5d122;
+		}
+		.team_inner p {
+			padding-top: 30px;
+			color: #fff;
+			font-size: 12px;
+		}
+
+
+
+	 }
+
+
+ @media (min-width: 576px) and (max-width:767.98px) { 
+
+	.team_inner {
+		padding: 10px 0;
+	}
+	.team_inner h2 {
+		font-size: 20px;
+		color: #e5d122;
+	}
+	.team_inner p {
+		padding-top: 30px;
+		color: #fff;
+		font-size: 12px;
+	}
+
+
+ }
+ @media (min-width: 768px) and (max-width: 991.98px) { }
+
+		/* =================================
+			team.html part end
+	==================================== */
